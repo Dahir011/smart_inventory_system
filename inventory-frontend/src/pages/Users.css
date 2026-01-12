@@ -1,0 +1,21 @@
+.users-page .page-header {
+  margin-bottom: 20px;
+}
+
+.role-badge {
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.role-badge.admin {
+  background-color: #dc3545;
+  color: white;
+}
+
+.role-badge.staff {
+  background-color: #28a745;
+  color: white;
+}
